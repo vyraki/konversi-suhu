@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Inter', 'Segoe UI', sans-serif;
-    background: red;
+    background: rgb(7, 0, 86);
     min-height: 100vh;
     display: flex;
     justify-content: center;
